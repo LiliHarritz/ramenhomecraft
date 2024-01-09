@@ -1,0 +1,422 @@
+.step-choose-your {
+  background-color: #e4bf90;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.step-choose-your .overlap-wrapper {
+  background-color: #e4bf90;
+  width: 1440px;
+  height: 2493px;
+}
+
+.step-choose-your .overlap {
+  position: relative;
+  height: 2493px;
+}
+
+.step-choose-your .NEWASIAN-design {
+  height: 1385px;
+  top: 1108px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .img {
+  height: 1026px;
+  top: 167px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .NEWASIAN-design-2 {
+  height: 1496px;
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .NOODLES {
+  position: absolute;
+  width: 1365px;
+  height: 754px;
+  top: 111px;
+  left: 34px;
+}
+
+.step-choose-your .RECIPIES-ABOUT-ME {
+  position: absolute;
+  height: 30px;
+  top: 60px;
+  left: 549px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 25px;
+  letter-spacing: 2.5px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.step-choose-your .rectangle {
+  position: absolute;
+  width: 1361px;
+  height: 1438px;
+  top: 912px;
+  left: 38px;
+  background-color: #ebdbc4;
+}
+
+.step-choose-your .skrmbillede {
+  width: 348px;
+  top: 334px;
+  left: 104px;
+  position: absolute;
+  height: 12px;
+}
+
+.step-choose-your .noteasian {
+  position: absolute;
+  width: 592px;
+  height: 454px;
+  top: 179px;
+  left: 30px;
+}
+
+.step-choose-your .remember-that-the {
+  position: absolute;
+  width: 463px;
+  height: 439px;
+  top: 370px;
+  left: 125px;
+  font-family: "Handlee-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .skrmbillede-2 {
+  width: 445px;
+  top: 357px;
+  left: 115px;
+  position: absolute;
+  height: 12px;
+}
+
+.step-choose-your .text-wrapper {
+  position: absolute;
+  width: 493px;
+  top: 205px;
+  left: 125px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 50px;
+  letter-spacing: 5px;
+  line-height: normal;
+}
+
+.step-choose-your .div {
+  position: absolute;
+  width: 1372px;
+  height: 9px;
+  top: 102px;
+  left: 34px;
+  background-color: #e4bf90;
+}
+
+.step-choose-your .ASIAN-GIRL {
+  position: absolute;
+  width: 146px;
+  height: 271px;
+  top: 2087px;
+  left: 164px;
+}
+
+.step-choose-your .TALEBOBLE {
+  position: absolute;
+  width: 696px;
+  height: 584px;
+  top: 1735px;
+  left: 216px;
+}
+
+.step-choose-your .vector {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 2430px;
+  left: 666px;
+}
+
+.step-choose-your .social-icons {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 2430px;
+  left: 713px;
+}
+
+.step-choose-your .vector-2 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 2430px;
+  left: 760px;
+}
+
+.step-choose-your .component {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 2239px;
+  left: 579px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .overlap-group {
+  position: relative;
+  width: 159px;
+  height: 48px;
+  left: -4px;
+  background-image: url(./img/rectangle-7-2.svg);
+  background-size: 100% 100%;
+}
+
+.step-choose-your .text-wrapper-2 {
+  position: absolute;
+  width: 109px;
+  height: 35px;
+  top: 2px;
+  left: 25px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.step-choose-your .p {
+  position: absolute;
+  width: 415px;
+  height: 312px;
+  top: 1920px;
+  left: 365px;
+  font-family: "Handlee-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .group {
+  position: absolute;
+  width: 1243px;
+  height: 866px;
+  top: 892px;
+  left: 105px;
+}
+
+.step-choose-your .overlap-2 {
+  position: relative;
+  width: 1231px;
+  height: 866px;
+}
+
+.step-choose-your .rectangle-2 {
+  position: absolute;
+  width: 1231px;
+  height: 863px;
+  top: 0;
+  left: 0;
+  background-color: #e4bf90;
+}
+
+.step-choose-your .soba-noodles-soba {
+  position: absolute;
+  width: 339px;
+  height: 143px;
+  top: 548px;
+  left: 459px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .span {
+  color: #6f5d1d;
+}
+
+.step-choose-your .text-wrapper-3 {
+  font-family: "Handlee-Regular", Helvetica;
+  color: #000000;
+  font-size: 18px;
+}
+
+.step-choose-your .chukamen-noodles {
+  position: absolute;
+  width: 375px;
+  height: 178px;
+  top: 122px;
+  left: 30px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .udon-noodles-udon {
+  position: absolute;
+  width: 344px;
+  height: 219px;
+  top: 119px;
+  left: 461px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .somen-noodles-are {
+  position: absolute;
+  width: 330px;
+  height: 212px;
+  top: 549px;
+  left: 30px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .text-wrapper-4 {
+  color: #000000;
+  font-size: 20px;
+}
+
+.step-choose-your .text-wrapper-5 {
+  font-family: "Handlee-Regular", Helvetica;
+  color: #000000;
+  font-size: 20px;
+}
+
+.step-choose-your .glass-noodles-work {
+  position: absolute;
+  width: 277px;
+  height: 352px;
+  top: 480px;
+  left: 914px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .shirataki-noodles {
+  position: absolute;
+  width: 368px;
+  height: 213px;
+  top: 119px;
+  left: 847px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+[class^="image-"]:hover {
+  opacity: 0.2;
+}
+
+.step-choose-your .image {
+  position: absolute;
+  width: 436px;
+  height: 446px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .image-2 {
+  position: absolute;
+  width: 415px;
+  height: 446px;
+  top: 0;
+  left: 816px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-3 {
+  position: absolute;
+  width: 354px;
+  height: 417px;
+  top: 446px;
+  left: 877px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-4 {
+  position: absolute;
+  width: 380px;
+  height: 446px;
+  top: 0;
+  left: 436px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .image-5 {
+  position: absolute;
+  width: 472px;
+  height: 420px;
+  top: 446px;
+  left: 405px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-6 {
+  position: absolute;
+  width: 405px;
+  height: 417px;
+  top: 446px;
+  left: 0;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .text-wrapper-6 {
+  position: absolute;
+  height: 30px;
+  top: -832px;
+  left: 430px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 25px;
+  letter-spacing: 2.5px;
+  line-height: 30px;
+  white-space: nowrap;
+}

@@ -1,0 +1,617 @@
+.step-choose-your {
+  background-color: #e4bf90;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.step-choose-your .overlap-wrapper {
+  background-color: #e4bf90;
+  width: 1440px;
+  height: 2989px;
+}
+
+.step-choose-your .overlap {
+  position: relative;
+  height: 2989px;
+}
+
+.step-choose-your .NEWASIAN-design {
+  height: 1026px;
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .img {
+  height: 1496px;
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .text-wrapper {
+  position: absolute;
+  height: 30px;
+  top: 60px;
+  left: 549px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 25px;
+  letter-spacing: 2.5px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.step-choose-your .NEWASIAN-design-2 {
+  height: 1298px;
+  top: 1691px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.step-choose-your .group {
+  position: absolute;
+  width: 153px;
+  height: 40px;
+  top: 2804px;
+  left: 761px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .overlap-group {
+  position: relative;
+  width: 159px;
+  height: 48px;
+  left: -4px;
+  background-image: url(./img/rectangle-7-2.svg);
+  background-size: 100% 100%;
+  z-index: 1;
+}
+
+.step-choose-your .div {
+  position: absolute;
+  height: 35px;
+  top: 2px;
+  left: 29px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.step-choose-your .rectangle {
+  position: absolute;
+  width: 1360px;
+  height: 233px;
+  top: 913px;
+  left: 42px;
+  background-color: #ebdbc4;
+}
+
+.step-choose-your .social-icons {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 2340px;
+  left: 744px;
+}
+
+.step-choose-your .rectangle-2 {
+  position: absolute;
+  width: 159px;
+  height: 48px;
+  top: 809px;
+  left: 990px;
+}
+
+.step-choose-your .text-wrapper-2 {
+  position: absolute;
+  height: 35px;
+  top: 813px;
+  left: 1012px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.step-choose-your .GENSAGER-NUDLKER {
+  position: absolute;
+  width: 1112px;
+  height: 754px;
+  top: 127px;
+  left: 267px;
+}
+
+.step-choose-your .noteasian {
+  position: absolute;
+  width: 422px;
+  height: 346px;
+  top: 303px;
+  left: 56px;
+}
+
+.step-choose-your .ramen-bowls-can-be {
+  position: absolute;
+  width: 330px;
+  height: 520px;
+  top: 320px;
+  left: 110px;
+  font-family: "Handlee-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .p {
+  position: absolute;
+  width: 626px;
+  top: 169px;
+  left: 104px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 50px;
+  letter-spacing: 5px;
+  line-height: normal;
+}
+
+.step-choose-your .skrmbillede {
+  position: absolute;
+  width: 445px;
+  height: 12px;
+  top: 279px;
+  left: 100px;
+}
+
+.step-choose-your .rectangle-3 {
+  position: absolute;
+  width: 1361px;
+  height: 1528px;
+  top: 1241px;
+  left: 41px;
+  background-color: #ebdbc4;
+}
+
+.step-choose-your .ASIAN-GIRL {
+  position: absolute;
+  width: 146px;
+  height: 271px;
+  top: 2637px;
+  left: 251px;
+}
+
+.step-choose-your .overlap-group-wrapper {
+  position: absolute;
+  width: 1239px;
+  height: 1374px;
+  top: 942px;
+  left: 119px;
+}
+
+.step-choose-your .overlap-2 {
+  position: relative;
+  width: 1215px;
+  height: 1374px;
+  background-color: #e4bf90;
+}
+
+.step-choose-your .overlap-3 {
+  position: absolute;
+  width: 347px;
+  height: 397px;
+  top: 0;
+  left: 1px;
+}
+
+.step-choose-your .scallions-green {
+  position: absolute;
+  width: 307px;
+  height: 242px;
+  top: 68px;
+  left: 28px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .span {
+  color: #6f5d1d;
+}
+
+.step-choose-your .text-wrapper-3 {
+  font-family: "Handlee-Regular", Helvetica;
+  color: #000000;
+  font-size: 18px;
+}
+
+.step-choose-your .image-1 {
+  position: absolute;
+  width: 347px;
+  height: 397px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .overlap-4 {
+  position: absolute;
+  width: 460px;
+  height: 397px;
+  top: 0;
+  left: 348px;
+}
+
+.step-choose-your .bok-choy-bok-choy-is {
+  position: absolute;
+  width: 375px;
+  height: 178px;
+  top: 88px;
+  left: 43px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .image-2 {
+  position: absolute;
+  width: 460px;
+  height: 397px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .overlap-5 {
+  position: absolute;
+  width: 407px;
+  height: 397px;
+  top: 0;
+  left: 808px;
+}
+
+.step-choose-your .bean-sprouts-bean {
+  position: absolute;
+  width: 304px;
+  height: 188px;
+  top: 83px;
+  left: 43px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .image-3 {
+  position: absolute;
+  width: 407px;
+  height: 397px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .overlap-6 {
+  position: absolute;
+  width: 1215px;
+  height: 977px;
+  top: 397px;
+  left: 0;
+}
+
+.step-choose-your .overlap-group-2 {
+  position: absolute;
+  width: 1215px;
+  height: 977px;
+  top: 0;
+  left: 0;
+}
+
+.step-choose-your .garlic-minced-or {
+  position: absolute;
+  width: 309px;
+  height: 171px;
+  top: 728px;
+  left: 526px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .spinach-baby-spinach {
+  position: absolute;
+  width: 279px;
+  height: 313px;
+  top: 370px;
+  left: 510px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .red-bell-peppers {
+  position: absolute;
+  width: 360px;
+  height: 222px;
+  top: 702px;
+  left: 45px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .corn-kernels-sweet {
+  position: absolute;
+  width: 332px;
+  height: 201px;
+  top: 49px;
+  left: 866px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .ginger-sliced-or {
+  position: absolute;
+  width: 208px;
+  height: 181px;
+  top: 707px;
+  left: 974px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .seaweed-nori-nori {
+  position: absolute;
+  width: 332px;
+  height: 358px;
+  top: 390px;
+  left: 844px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .carrots-julienne-or {
+  position: absolute;
+  width: 363px;
+  height: 143px;
+  top: 409px;
+  left: 42px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+[class^="image-"]:hover {
+  opacity: 0.2;
+}
+
+.step-choose-your .image-4 {
+  position: absolute;
+  width: 380px;
+  height: 312px;
+  top: 0;
+  left: 835px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-5 {
+  position: absolute;
+  width: 424px;
+  height: 307px;
+  top: 312px;
+  left: 791px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-6 {
+  position: absolute;
+  width: 314px;
+  height: 307px;
+  top: 312px;
+  left: 477px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .image-7 {
+  position: absolute;
+  width: 476px;
+  height: 322px;
+  top: 312px;
+  left: 1px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .image-8 {
+  position: absolute;
+  width: 476px;
+  height: 358px;
+  top: 619px;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .image-9 {
+  position: absolute;
+  width: 469px;
+  height: 358px;
+  top: 619px;
+  left: 476px;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .image-10 {
+  position: absolute;
+  width: 270px;
+  height: 358px;
+  top: 619px;
+  left: 946px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.step-choose-your .overlap-7 {
+  position: absolute;
+  width: 409px;
+  height: 312px;
+  top: 0;
+  left: 426px;
+}
+
+.step-choose-your .mushrooms-sliced-or {
+  position: absolute;
+  width: 354px;
+  height: 270px;
+  top: 22px;
+  left: 31px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .image-11 {
+  position: absolute;
+  width: 409px;
+  height: 312px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .overlap-8 {
+  position: absolute;
+  width: 425px;
+  height: 312px;
+  top: 0;
+  left: 1px;
+}
+
+.step-choose-your .cabbage-thinly {
+  position: absolute;
+  width: 248px;
+  height: 210px;
+  top: 52px;
+  left: 67px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .image-12 {
+  position: absolute;
+  width: 425px;
+  height: 312px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+}
+
+.step-choose-your .div-wrapper {
+  position: absolute;
+  width: 698px;
+  height: 584px;
+  top: 2316px;
+  left: 308px;
+}
+
+.step-choose-your .overlap-9 {
+  position: relative;
+  width: 696px;
+  height: 584px;
+  background-image: url(./img/taleboble-3.png);
+  background-size: 100% 100%;
+}
+
+.step-choose-your .text-wrapper-4 {
+  position: absolute;
+  width: 418px;
+  height: 209px;
+  top: 180px;
+  left: 150px;
+  font-family: "Handlee-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-choose-your .vector {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  top: 2929px;
+  left: 661px;
+}
+
+.step-choose-your .social-icons-2 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 2929px;
+  left: 705px;
+}
+
+.step-choose-your .vector-2 {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  top: 2929px;
+  left: 749px;
+}

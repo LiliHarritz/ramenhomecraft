@@ -1,0 +1,181 @@
+.step-serve-enjoy {
+  background-color: #e4bf90;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.step-serve-enjoy .overlap-wrapper {
+  background-color: #e4bf90;
+  width: 1440px;
+  height: 1989px;
+}
+
+.step-serve-enjoy .overlap {
+  position: relative;
+  height: 1989px;
+}
+
+.step-serve-enjoy .NEWASIAN-design {
+  width: 1436px;
+  height: 1025px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.step-serve-enjoy .img {
+  width: 1440px;
+  height: 1496px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.step-serve-enjoy .NEWASIAN-design-2 {
+  width: 1440px;
+  height: 966px;
+  top: 1023px;
+  position: absolute;
+  left: 0;
+}
+
+.step-serve-enjoy .rectangle {
+  position: absolute;
+  width: 1359px;
+  height: 233px;
+  top: 918px;
+  left: 41px;
+  background-color: #ebdbc4;
+}
+
+.step-serve-enjoy .text-wrapper {
+  position: absolute;
+  width: 655px;
+  top: 224px;
+  left: 104px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 50px;
+  letter-spacing: 5px;
+  line-height: normal;
+}
+
+.step-serve-enjoy .div {
+  position: absolute;
+  height: 30px;
+  top: 86px;
+  left: 616px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: #6f5d1d;
+  font-size: 25px;
+  letter-spacing: 2.5px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.step-serve-enjoy .skrmbillede {
+  position: absolute;
+  width: 632px;
+  height: 12px;
+  top: 279px;
+  left: 106px;
+}
+
+.step-serve-enjoy .step-by-step {
+  position: absolute;
+  width: 846px;
+  height: 948px;
+  top: 950px;
+  left: 128px;
+  font-family: "HIRO MISAKE-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-serve-enjoy .span {
+  color: #6f5d1d;
+}
+
+.step-serve-enjoy .text-wrapper-2 {
+  font-family: "Handlee-Regular", Helvetica;
+  color: #000000;
+  font-size: 18px;
+}
+
+.step-serve-enjoy .skrmbillede-2 {
+  position: absolute;
+  width: 397px;
+  height: 359px;
+  top: 520px;
+  left: 872px;
+  object-fit: cover;
+}
+
+.step-serve-enjoy .ASIAN-GIRL {
+  position: absolute;
+  width: 146px;
+  height: 271px;
+  top: 606px;
+  left: 138px;
+}
+
+.step-serve-enjoy .group {
+  position: absolute;
+  width: 682px;
+  height: 614px;
+  top: 265px;
+  left: 211px;
+}
+
+.step-serve-enjoy .overlap-group {
+  position: relative;
+  width: 680px;
+  height: 614px;
+  background-image: url(./img/taleboble-2.png);
+  background-size: 100% 100%;
+}
+
+.step-serve-enjoy .your-customized {
+  position: absolute;
+  width: 401px;
+  height: 498px;
+  top: 180px;
+  left: 148px;
+  font-family: "Handlee-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.step-serve-enjoy .vector {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  top: 1939px;
+  left: 659px;
+}
+
+.step-serve-enjoy .social-icons {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 1939px;
+  left: 703px;
+}
+
+.step-serve-enjoy .vector-2 {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  top: 1939px;
+  left: 747px;
+}
